@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* width */
+.scrollbar-custom::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+/* Handle */
+.scrollbar-custom::-webkit-scrollbar-thumb {
+  background: #073664;
+  border-radius: 100vh;
+  border: 3px solid #084177e3;
+}
+
+/* Handle on hover */
+.scrollbar-custom::-webkit-scrollbar-thumb:hover {
+  background: #0a4a8a;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
