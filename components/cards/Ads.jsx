@@ -1,15 +1,18 @@
+import { Adsense } from "@ctrl/react-adsense";
 import React from "react";
 
 function Ads() {
   return (
     //   first one
-    <ins
+    <Adsense
+      data-ad-client="ca-pub-7640562161899788"
+      data-ad-slot="7259870550"
+      style={{ display: "block" }}
+      layout="in-article"
+      data-ad-format="fluid"
       className="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-9462389809344404"
-      data-ad-slot="3049029116"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
+      data-full-width-responsive="true"
+    />
   );
 }
 
