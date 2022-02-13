@@ -20,7 +20,11 @@ workshops and collaborations.
 ## Pages
 
 - /
+![image](https://user-images.githubusercontent.com/72823374/152174273-2c33699e-0bc4-4140-a532-04e38bcadbc7.png)
+
 - /about
+![image](https://user-images.githubusercontent.com/72823374/152174764-511f874f-2cb1-4a77-bb65-fd113e78e421.png)
+
 - /activities
 - /activities/projects
 - /activities/training
@@ -29,6 +33,8 @@ workshops and collaborations.
 - /activities/visits
 - /activities/competitions
 - /activities/collaborations
+![image](https://user-images.githubusercontent.com/72823374/152174658-d53eb3e0-9602-4c58-a4f0-fa9b3327c8a5.png)
+
 - /forms
 
 ## Backend structure
