@@ -30,7 +30,13 @@ We talk about different fields in computer science and explain it to the communi
           name="viewport"
           content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
         />
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9462389809344404"
+          crossOrigin="anonymous"></script>
+        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
       </Head>
+
       <ApolloProvider client={client}>
         <Layout>
           <Component {...pageProps} />

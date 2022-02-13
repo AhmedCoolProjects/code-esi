@@ -1,5 +1,6 @@
 import Head from "next/head";
 import NoProjects from "@comp/cards/NoProjects";
+import Ads from "@comp/cards/Ads";
 
 function Index() {
   return (
@@ -13,6 +14,7 @@ function Index() {
         </h1>
         <div className="w-full flex flex-col items-center justify-center min-h-[400px] h-full">
           <NoProjects msg="No Forms Yet!" />
+          <Ads />
         </div>
       </div>
     </div>
